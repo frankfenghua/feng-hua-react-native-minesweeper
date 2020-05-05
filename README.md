@@ -20,6 +20,7 @@ git clone https://github.com/frankfenghua/feng-hua-react-native-minesweeper.git
 2.  Install the dependencies:
 
 ```
+npm install -g expo-cli
 cd feng-hua-react-native-minesweeper
 npm install
 ```
