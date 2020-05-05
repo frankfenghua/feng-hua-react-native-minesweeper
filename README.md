@@ -2,6 +2,9 @@
 
 Minesweeper game built in react native
 
+## Demo
+-   [Demo File MP4 Download]( feng-hua-react-native-minesweeper/demo/react-native-minesweeper-demo.mp4 )
+
 ## Prerequisites
 
 -   React Native development environment
